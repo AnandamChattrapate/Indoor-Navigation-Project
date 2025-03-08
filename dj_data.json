@@ -1,0 +1,12 @@
+{
+    "adj_matrix": {
+      "A": {"B": 5, "C": 10},
+      "B": {"A": 5, "C": 2, "D": 3},
+      "C": {"A": 10, "B": 2, "D": 1},
+      "D": {"B": 3, "C": 1}
+    },
+    "checkpoints": ["A", "B", "C", "D"],
+    "current_location": "A",
+    "end_point": "D"
+  }
+  
